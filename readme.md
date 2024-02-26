@@ -13,7 +13,7 @@ Dacă ai o bună înțelegere a limbii engleze, poți simplu să cauți pe YouTu
 - HTML tutorial for beginners
 - CSS tutorial for beginners
 - Javascript tutorial for beginners
-- 
+  
 Un videoclip cu un număr considerabil de vizualizări și o durată adecvată, de obicei, indică faptul că oferă o acoperire extensivă a informațiilor necesare unui începător. Dacă modul de prezentare sau vocea naratorului nu îți convin, nu ezita să cauți alte videoclipuri care să fie mai pe gustul tău.
 
 Cel mai important este să alegi un tutorial și să te angajezi să îl urmărești până la sfârșit, evitând să te lași distras de alte sugestii de pe YouTube. Materialele prezentate acolo sunt, în general, de calitate și nu este necesar să cazi în capcana de a urmări nenumărate tutoriale pe același subiect.
@@ -59,7 +59,7 @@ Aici am și eu o tentativă de video tutorial.
 
 ## Q&A de grup
 
-Dacă ești student și nu ai bani să plătești pentru serviciile mele de mentorat, adună-ți prietenii cu adevărat interesați de acest subiect și facemm Q&A de grup.
+Dacă ești student și nu ai bani să plătești pentru serviciile mele de mentorat, adună-ți prietenii cu adevărat interesați de acest subiect și facemm Live Video Q&A pe discord.
 
 Așa că, vă valuri pe serverul de discord, pune întrebări, adună-ți prietenii, dă-mi de înțeles că sunteți serioși despre web development și putem organiza Q&A de grup o data la ~ 2 săptămâni.
 
